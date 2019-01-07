@@ -20,7 +20,6 @@ Categories (food, water, shelter, etc.):
 * Healthcare
     * Childcare
 * Clothes (think of overarching category)
-* Rent (future capability that may not be possible in the first iteration)
 
 Crypto Components: <br>
 * 0x portal for donating with crypto
