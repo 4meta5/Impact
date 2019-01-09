@@ -1,4 +1,5 @@
 # Random Ideas
+> how could our platform crowdfund other costs
 
 ## Donations => Loans
 
@@ -6,7 +7,18 @@ We could allow recipients to donate back the dollar amount of the goods that the
 
 ## Rent
 
-## Add Education
+## Education
 > (Unconditional) Income Share Agreements
 
 * [wiki](https://en.wikipedia.org/wiki/Income_Share_Agreement)
+
+Problem: student debt bubble => lack of incentives to increase human capital investment...lack of entrepreneurship.
+
+### Random Other Ideas
+
+* make locked up capital accessible (via overcollateralized loan pools)
+
+* `Uber` for prostitution w/ safety measures (only in places where it is already legal)
+    * instead of ignoring taboo, we should consider more robust regulation...
+
+* DAO for workers to easily unionize
