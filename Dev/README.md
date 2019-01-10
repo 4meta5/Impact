@@ -1,5 +1,14 @@
 # Development Plan/Resources
 
+## Node (+ Rust?...)
+
+
+### `Rust`
+> this isn't really necessary, but it would increased efficiency as well as safety
+
+`\exist` two approaches:
+1. Use [neon-bindings](https://github.com/neon-bindings)
+2. Use wasm (compile Rust down to wasm and then interact with node with wasm)
 
 ## Bloom
 > [API High Level Overview](https://blog.hellobloom.io/sponsoring-eth-sf-hackathon-api-prize-bloom-protocol-api-overview-d9630d663b98)
