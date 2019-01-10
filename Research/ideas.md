@@ -14,6 +14,10 @@ We could allow recipients to donate back the dollar amount of the goods that the
 
 Problem: student debt bubble => lack of incentives to increase human capital investment...lack of entrepreneurship.
 
+* higher education should be seen as a public good...
+
+* Lambda School really aligns incentives!
+
 ### Random Other Ideas
 
 * make locked up capital accessible (via overcollateralized loan pools)
