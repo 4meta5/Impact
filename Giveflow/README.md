@@ -2,6 +2,8 @@
 
 * [`zeit/nextjs` examples with assembly](https://github.com/zeit/next.js/tree/canary/examples/with-webassembly)
 
+* [Using truffle for Ethereum developments with nextjs](https://github.com/adrianmcli/truffle-next)
+
 ## AUTO
 
 This project was bootstrapped with [Create Next App](https://github.com/segmentio/create-next-app).
