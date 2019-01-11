@@ -1,16 +1,12 @@
 # Development Plan/Resources
+# Dev Stuff
 
-## Node (+ Rust?...)
+* Nodejs
+* Rust + WASM
 
+## Authentication
 
-### `Rust`
-> this isn't really necessary, but it would increased efficiency as well as safety
-
-`\exist` two approaches:
-1. Use [neon-bindings](https://github.com/neon-bindings)
-2. Use wasm (compile Rust down to wasm and then interact with node with wasm)
-
-## Bloom
+* [Bloom](https://bloom.co)
 > [API High Level Overview](https://blog.hellobloom.io/sponsoring-eth-sf-hackathon-api-prize-bloom-protocol-api-overview-d9630d663b98)
 
 Bloom Protocol is an end-to-end protocol for decentralized login, identity, and credit scoring. With Bloom Protocol, you can implement compliant financial systems without sacrificing user privacy or risking data breaches. You don’t have to take custody of a user’s personal data, or rely on a centralized system. The user holds the only keys to release their data and you can be sure the data they are sharing has been independently verified.
@@ -24,3 +20,9 @@ Bloom Protocol is an end-to-end protocol for decentralized login, identity, and 
 [Bounty for 2 ETH](https://gitcoin.co/issue/hellobloom/share-kit/28/1857) to incorporate QR Code
 * [Share Kit](https://github.com/hellobloom/share-kit)
 * [Other Submission](https://github.com/vikaskyadav/bloom-login)
+
+### Firebase
+* [Nextjs Firebase Authentication](https://github.com/zeit/next.js/tree/master/examples/with-firebase-authentication)
+
+### Rust
+> rust => wasm
