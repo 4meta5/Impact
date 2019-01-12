@@ -4,6 +4,14 @@
 * Nodejs
 * Rust + WASM
 
+*Random*
+
+* [`zeit/nextjs` examples with assembly](https://github.com/zeit/next.js/tree/canary/examples/with-webassembly)
+
+* [Using truffle for Ethereum developments with nextjs](https://github.com/adrianmcli/truffle-next)
+
+* [Next.js (React) + Redux + Express REST API + MongoDB + Mongoose-Crudify boilerplate](https://github.com/tomsoderlund/nextjs-express-mongoose-crudify-boilerplate)
+
 ## Authentication
 
 * [Bloom](https://bloom.co)
