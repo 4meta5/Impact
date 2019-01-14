@@ -1,7 +1,5 @@
 # Impact
-Universal Basic Income Solution (started for the [Impact Fellowship](https://www.impactlabs.io/fellowship))
-
-## Our Idea (Rough)
+Universal Basic Income Mechanism (started for the [Impact Fellowship](https://www.impactlabs.io/fellowship))
 
 *Donors buy goods directly for recipients.*
 

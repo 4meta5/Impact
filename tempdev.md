@@ -1,5 +1,19 @@
-# Development Plan/Resources
-# Dev Stuff
+# Giveflow: Crowdsourcing Universal Basic Income
+> [Impact Fellowship](https://www.impactlabs.io/fellowship)
+
+*Donors buy goods directly for recipients.*
+
+> Target demographic: low-income areas in the US close to Amazon shipping warehouses
+
+By focusing on low-income areas in close proximity to Amazon shipping stations, we can ship goods directly to the people in need.
+
+Value add(s):
+* **Direct**: direct purchase alleviates the trust implicit in unconditional cash transfers, thereby providing increased confidence that the donation is used for its intended purpose
+* **Convenient**: multiple models for contribution including but not limited to subscription-based donations, `rounding up`-style donations via a browser plugin, and a *pay in crypto* option
+* **Reputation-Based**: [Bloom](https://bloom.co/) enables us to establish identity for recipients and develop metrics for reputation to decide on future priority   
+    * recipients can fill out surveys regarding the donation that increase their reputation (surveys provide data and feedback on impact)
+
+## Dev Stuff (Links for Resources while Under Construction)
 
 * Nodejs
 * Rust + WASM
@@ -37,9 +51,6 @@ Bloom Protocol is an end-to-end protocol for decentralized login, identity, and 
 [Bounty for 2 ETH](https://gitcoin.co/issue/hellobloom/share-kit/28/1857) to incorporate QR Code
 * [Share Kit](https://github.com/hellobloom/share-kit)
 * [Other Submission](https://github.com/vikaskyadav/bloom-login)
-
-### Firebase
-* [Nextjs Firebase Authentication](https://github.com/zeit/next.js/tree/master/examples/with-firebase-authentication)
 
 ### Rust
 > rust => wasm
