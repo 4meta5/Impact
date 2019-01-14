@@ -1,25 +1,18 @@
 {
-  "name": "client",
+  "name": "give-flow",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "scripts": {
-    "dev": "next",
-    "build": "next build",
-    "start": "next start",
-    "link-contracts": "cd lib && ln -s ../../build/contracts contracts"
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
   },
-  "dependencies": {
-    "next": "^6.1.1",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
-    "web3": "^1.0.0-beta.34",
-    "body-parser": "^1.15.2",
-		"express": "^4.14.0",
-		"glob": "^7.1.2",
-		"isomorphic-unfetch": "^2.0.0",
-		"lodash": "^4.17.5",
-		"mongoose": "^4.7.6",
-		"mongoose-crudify": "^0.2.0"
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
   }
 }
