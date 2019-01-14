@@ -1,6 +1,14 @@
 # Giveflow: Crowdsourcing Universal Basic Income
 > [Impact Fellowship](https://www.impactlabs.io/fellowship)
 
+### Solidity
+
+* currently dealing with this error in `contracts/AccountRegistryLogic.sol`: `TypeError: Data location must be "storage" or "memory" for parameter in function, but none was given.`
+* the primary problem is that the Bloom contracts are outdated so the syntax needs to be updated to match `0.5.1` Solidity, but I think I'd rather just fix them well enough to get this done rather than dive deep into Solidity syntax
+* instead, I want to focus on interaction with Solidity contracts; debugging should hopefully occur with time...
+
+### Background
+
 *Donors buy goods directly for recipients.*
 
 > Target demographic: low-income areas in the US close to Amazon shipping warehouses
