@@ -1,5 +1,5 @@
 build
 client/node_modules/*
 client/lib/contracts
-presentation/sunshine/node_modules
+presentation/node_modules
 node_modules
