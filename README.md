@@ -3,9 +3,10 @@
 
 ### Solidity
 
-* currently dealing with this error in `contracts/AccountRegistryLogic.sol`: `TypeError: Data location must be "storage" or "memory" for parameter in function, but none was given.`
-* the primary problem is that the Bloom contracts are outdated so the syntax needs to be updated to match `0.5.1` Solidity, but I think I'd rather just fix them well enough to get this done rather than dive deep into Solidity syntax
-* instead, I want to focus on interaction with Solidity contracts; debugging should hopefully occur with time...
+**Useful Resources**<br>
+* [Ganache and Truffle Tutorial](https://hackernoon.com/ethereum-development-walkthrough-part-2-truffle-ganache-geth-and-mist-8d6320e12269)
+* [Solidity v0.5.0 breaking changes](https://solidity.readthedocs.io/en/v0.5.0/050-breaking-changes.html)
+    * [Explicitness Requirements](https://solidity.readthedocs.io/en/v0.5.0/050-breaking-changes.html#explicitness-requirements) 
 
 ### Background
 
