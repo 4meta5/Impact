@@ -7,7 +7,9 @@ Team:
 * [Jo]()
 * [Amar](https://about.me/amar-singh)
 
+> Mission
 
+> Objectives
 
 ## User Profile
 
@@ -79,7 +81,7 @@ With this in mind, we have two main objectives
 
 Today, we presented **Sunshine**: a self-sustaining mechanism for crowdsourcing financial support to break the cycle of poverty in the United States.
 
-# The Next Mechanism: Firefly
+# Future Mechanism: Firefly
 
 GiveDirectly has shown that unconditional cash transfers empower recipients to use aid effectively. In many cases, this donation paradigm allows recipients to navigate local markets and choose whether now is the best time to save/spend (as well as what to invest in). Likewise, it treats recipients as economically rational actors with multidimensional spending/saving strategies.
 
