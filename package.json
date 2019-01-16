@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^8.0.2",
+    "mdx-deck": "^1.8.2",
     "standard": "^10.0.3"
   }
 }

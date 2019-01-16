@@ -1,6 +1,15 @@
 # Giveflow: Crowdsourcing Universal Basic Income
 > [Impact Fellowship](https://www.impactlabs.io/fellowship)
 
+### Solidity
+
+**Useful Resources**<br>
+* [Ganache and Truffle Tutorial](https://hackernoon.com/ethereum-development-walkthrough-part-2-truffle-ganache-geth-and-mist-8d6320e12269)
+* [Solidity v0.5.0 breaking changes](https://solidity.readthedocs.io/en/v0.5.0/050-breaking-changes.html)
+    * [Explicitness Requirements](https://solidity.readthedocs.io/en/v0.5.0/050-breaking-changes.html#explicitness-requirements) 
+
+### Background
+
 *Donors buy goods directly for recipients.*
 
 > Target demographic: low-income areas in the US close to Amazon shipping warehouses

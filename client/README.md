@@ -2,6 +2,9 @@
 
 This is the frontend client for our dapp. It is built with Next.js and uses a render-prop pattern (via `lib/Web3Container.js`) so we can easily inject blockchain functionality (i.e. web3, accounts, and the contract instance) into each page.
 
+**Some commands**<br>
+* `lsof -i:8545` => `kill -9 <process-id>`
+
 ## Pages
 
 There are three pages:
