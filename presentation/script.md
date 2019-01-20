@@ -83,6 +83,8 @@ Today, we presented **Sunshine**: a self-sustaining mechanism for crowdsourcing 
 
 # Future Mechanism: Firefly
 
+> target demographic: emerging markets where the native currency is depreciating...
+
 GiveDirectly has shown that unconditional cash transfers empower recipients to use aid effectively. In many cases, this donation paradigm allows recipients to navigate local markets and choose whether now is the best time to save/spend (as well as what to invest in). Likewise, it treats recipients as economically rational actors with multidimensional spending/saving strategies.
 
 When donations are restricted to physical resources, recipients will request the resource that is worth the most (and is most likely to be awarded) even if they don't need that resource. Recipients make this choice with the expectation that they can sell the most expensive/popular good to buy more of the resources that they actually need. 
